@@ -16,3 +16,8 @@
 - Generated documentation for the Data Transformation process
 - SQL Code for creation of the Data Warehouse
 - SQL Code for reports
+
+## Etapes
+- Install Talend
+- Install base de données
+- Vérif base de données avec un outil de requêtag

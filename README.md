@@ -18,6 +18,6 @@
 - SQL Code for reports
 
 ## Etapes
-- Install Talend: https://www.talend.com/lp/open-studio-for-data-integration/
+- Install Talend: https://www.talend.com/lp/open-studio-for-data-integration/ (choose access linux / zip)
 - Install base de données
 - Vérif base de données avec un outil de requêtag

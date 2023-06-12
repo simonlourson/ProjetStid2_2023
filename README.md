@@ -21,4 +21,5 @@
 - Install Talend: https://www.talend.com/lp/open-studio-for-data-integration/ (choose access linux / zip)
 - Download java: https://www.azul.com/downloads/?version=java-11-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu
 - Install base de données
-- Vérif base de données avec un outil de requêtag
+- Vérif base de données avec un outil de requêtage
+- Avec Talend, tFileInputDelimited => tLog puis tFileInputDelimited => tDbOutput, pour écrire les données "brutes" (que du string) en db
